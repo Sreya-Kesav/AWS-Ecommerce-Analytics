@@ -32,6 +32,8 @@ The objective of this project is to build a cloud-based analytics solution that 
 
 ## 🏗️ Architecture
 
-*Architecture diagram will be added here.*
+The following architecture illustrates the complete end-to-end data analytics workflow used in this project.
+
+![Architecture](Architecture/architecture.png)
 
 
