@@ -45,3 +45,12 @@ The following architecture illustrates the complete end-to-end data analytics wo
 5. Simba ODBC Driver
 6. Power BI
 
+### 🪣 Amazon S3
+
+Amazon S3 was used as the centralized cloud storage layer to store the raw e-commerce dataset.
+
+**Purpose:**
+- Store the raw CSV dataset
+- Act as the data source for AWS Glue
+- Enable serverless querying through Amazon Athena
+![Amazon S3](AWS
