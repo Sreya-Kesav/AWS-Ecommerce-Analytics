@@ -37,7 +37,7 @@ The following architecture illustrates the complete end-to-end data analytics wo
 ![Architecture](Architecture/Architecture.png)
 
 ## ☁️ AWS Services Used
-    ↓
+
 1. Amazon S3
 2. AWS Glue
 3. AWS IAM
