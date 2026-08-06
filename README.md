@@ -27,12 +27,11 @@ The objective of this project is to build a cloud-based analytics solution that 
 - Identify top-performing product categories
 - Analyze customer purchasing behavior
 - Track regional sales performance
-
-## 🏗️ Architecture
+- Measure profitability
+- Support data-driven business decisions
 
 ## 🏗️ Architecture
 
 *Architecture diagram will be added here.*
 
-- Measure profitability
-- Support data-driven business decisions
+
