@@ -17,3 +17,22 @@ The solution stores raw e-commerce data in Amazon S3, catalogs metadata using AW
 
 The dashboard helps business users monitor sales performance, profitability, customer behavior, product categories, and regional performance while supporting data-driven decision-making.
 
+## 🎯 Business Problem
+
+Organizations generate large volumes of sales data every day, but raw data alone does not provide actionable insights.
+
+The objective of this project is to build a cloud-based analytics solution that enables stakeholders to:
+
+- Monitor sales performance
+- Identify top-performing product categories
+- Analyze customer purchasing behavior
+- Track regional sales performance
+
+## 🏗️ Architecture
+
+## 🏗️ Architecture
+
+*Architecture diagram will be added here.*
+
+- Measure profitability
+- Support data-driven business decisions
