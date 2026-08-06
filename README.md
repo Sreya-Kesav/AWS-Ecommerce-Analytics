@@ -36,4 +36,12 @@ The following architecture illustrates the complete end-to-end data analytics wo
 
 ![Architecture](Architecture/Architecture.png)
 
+## ☁️ AWS Services Used
+    ↓
+1. Amazon S3
+2. AWS Glue
+3. AWS IAM
+4. Amazon Athena
+5. Simba ODBC Driver
+6. Power BI
 
