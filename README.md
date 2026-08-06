@@ -1,4 +1,11 @@
 # AWS-Ecommerce-Analytics
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-Storage-green)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-ETL-purple)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-SQL-orange)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![SQL](https://img.shields.io/badge/SQL-Query-blue)
+
 
 End-to-end cloud analytics project built using Amazon S3, AWS Glue, Amazon Athena, SQL, and Power BI.
 
