@@ -53,4 +53,4 @@ Amazon S3 was used as the centralized cloud storage layer to store the raw e-com
 - Store the raw CSV dataset
 - Act as the data source for AWS Glue
 - Enable serverless querying through Amazon Athena
-![Amazon S3](AWS
+![Amazon S3](Amazon20%S3/S3_Bucket.png)
