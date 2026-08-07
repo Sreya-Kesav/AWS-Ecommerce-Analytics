@@ -19,9 +19,6 @@ Instead of storing the data locally or importing it into a database, I used S3 a
 - Organized the files into separate folders for better management.
 - Used the bucket as the data source for AWS Glue.
 
-### Screenshot
-
-<img width="1342" height="407" alt="S3_Bucket" src="https://github.com/user-attachments/assets/a2268983-7073-45f3-abb0-fdd3d5e73de8" />
 
 ### What I learned
 
@@ -42,11 +39,6 @@ Instead of manually defining table schemas, I created a crawler that scanned the
 - Crawled the S3 bucket.
 - Automatically created metadata for the uploaded CSV files.
 
-### Screenshots
-<img width="1490" height="630" alt="Glue_tables" src="https://github.com/user-attachments/assets/7f8c6ac4-4639-4912-915a-e7ffd8aed2df" />
-
-<img width="892" height="421" alt="Glue_crawler" src="https://github.com/user-attachments/assets/01369eb2-7281-4e0a-89d0-651d0a60de4e" />
-
 
 ### What I learned
 
@@ -66,12 +58,6 @@ I also configured the required permissions so Power BI could access Athena safel
 - Created an IAM User Group.
 - Assigned the required permissions.
 - Created a Glue Service Role for the crawler.
-
-### Screenshots
-<img width="1302" height="305" alt="IAM_Role" src="https://github.com/user-attachments/assets/56133735-0d43-485b-bec5-af50c43e6905" />
-
-<img width="772" height="417" alt="IAM_User" src="https://github.com/user-attachments/assets/7c60decc-f468-4758-907a-6a9af10c074b" />
-
 
 ### What I learned
 
